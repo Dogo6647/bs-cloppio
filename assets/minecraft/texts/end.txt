@@ -1,0 +1,87 @@
+[C]§f============
+[C]§eFlopMC
+[C]§f============
+
+§7Made by
+§f          HTML Labs
+
+§7The Crew
+§f          Diego, Danna, Juan Pablo, Eduardo
+
+§7Commands
+§f          Dogo6647
+
+§7Redstone
+§f          Dogo6647, ElJuanGato, SoyFachero0011/Tabo
+
+§7Resource Pack (bs-cloppio)
+§7          Derived from:
+§f          PaperCutOut :: chengzzi89
+§f          Jolicraft :: andrejolicoeur
+§f          Barebones :: robotpant
+§f          Faithful 32x :: Faithful_Team
+§f          Cloppio :: Dogo6647
+
+§7Server hardware management
+§f          Dogo6647
+
+§7Music and Sounds
+§f          DogoMusic
+§f          Ceppuka
+§f          Deelatch
+§f          Kevin MacLeod
+§f          BDCraft
+§f          Material - Google
+
+§7Shaders
+§f          Onnowhere
+§f          MyZia
+
+§7Server IP Provided by
+§f          Freenom.com
+
+§f FlopMC, a nice and simple Minecraft Server made by
+§f Dogo Animation/HTML Labs
+
+§f Special thanks to YOU!
+§f If you're reading this, you're awesome, dude.
+
+§7See README.txt in file https://github.com/Dogo6647/bs-cloppio/releases/download/vanilla-7.0/bs-cloppio-7.zip
+§7For more credits
+
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+§f§k§a§b§2
+
+§f Thanks for playing!
+§7 Seriously, Thank you so MUCH! :D

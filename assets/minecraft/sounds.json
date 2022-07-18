@@ -1,0 +1,64 @@
+{ "custom.screech": {
+ "category": "master",
+  "sounds": [
+   "custom/screech" , "custom/waargh" ] 
+   },
+    "custom.join": {
+ "category": "master",
+  "sounds": [
+   "custom/join"] 
+   },
+       "custom.bruh": {
+ "category": "master",
+  "sounds": [
+   "custom/bruh"] 
+   },
+       "custom.aaaugh": {
+ "category": "master",
+  "sounds": [
+   "custom/aaaugh"] 
+   },
+       "custom.vineinstagram": {
+ "category": "master",
+  "sounds": [
+   "custom/vineinstagram"] 
+   },
+       "custom.jijijija": {
+ "category": "master",
+  "sounds": [
+   "custom/jijijija"] 
+   },
+       "custom.fard": {
+ "category": "master",
+  "sounds": [
+   "custom/fard"] 
+   },
+       "custom.oof": {
+ "category": "master",
+  "sounds": [
+   "custom/oof"] 
+   },
+       "custom.pwwwah": {
+ "category": "master",
+  "sounds": [
+   "custom/pwwwah"] 
+   },
+    "block.chest.close": {
+        "replace": true,
+        "sounds": [
+            "block/chest/close"
+        ]
+    },
+    "block.wooden_door.close": {
+        "replace": true,
+        "sounds": [
+            "block/wooden_door/close"
+        ]
+    },
+    "block.wooden_door.open": {
+        "replace": true,
+        "sounds": [
+            "block/wooden_door/open"
+        ]
+    }
+}
