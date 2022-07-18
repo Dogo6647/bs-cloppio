@@ -11,14 +11,21 @@ pones el source code en la carpeta, la pones en /home/xxxx/.minecraft/resourcepa
 Bueno, en realidad no "Construyes" el pack, lo "habilitas".
 
 ### Créditos
-Algunas canciones de discos de jukeboxes que están en el pack vienen de aquí:
-https://soundcloud.com/cepukka
+- Texturas -
+PaperCutOut :: chengzzi89
+Jolicraft :: andrejolicoeur
+Barebones :: robotpant
+Faithful 32x :: Faithful_Team
+Cloppio :: Dogo6647
 
-También de aquí:
-https://soundcloud.com/dogoanimation-37342/
+- Sonidos -
+PureBDcraft :: BDCraft
+Material Design :: Google
+Cepukka
+Deelatch
+Kevin MacLeod
+DogoMusic
 
-Hay algunos sonidos que no son mios y no se si son copyright... (sorry)
-Como este: https://github.com/LineageOS/android_frameworks_base/blob/lineage-18.1/data/sounds/effects/material/ogg/WirelessChargingStarted.ogg
-Y este: https://github.com/LineageOS/android_frameworks_base/blob/lineage-18.1/data/sounds/effects/ogg/Unlock.ogg
-
-Bueno creo que esos son todos los créditos
+- Shaders -
+Onnowhere
+MyZia
