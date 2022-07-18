@@ -11,21 +11,21 @@ pones el source code en la carpeta, la pones en /home/xxxx/.minecraft/resourcepa
 Bueno, en realidad no "Construyes" el pack, lo "habilitas".
 
 ### Créditos
-- Texturas -
-PaperCutOut :: chengzzi89
-Jolicraft :: andrejolicoeur
-Barebones :: robotpant
-Faithful 32x :: Faithful_Team
-Cloppio :: Dogo6647
+Texturas
+- PaperCutOut :: chengzzi89
+- Jolicraft :: andrejolicoeur
+- Barebones :: robotpant
+- Faithful 32x :: Faithful_Team
+- Cloppio :: Dogo6647
 
-- Sonidos -
-PureBDcraft :: BDCraft
-Material Design :: Google
-Cepukka
-Deelatch
-Kevin MacLeod
-DogoMusic
+Sonidos
+- PureBDcraft :: BDCraft
+- Material Design :: Google
+- Cepukka
+- Deelatch
+- Kevin MacLeod
+- DogoMusic
 
-- Shaders -
-Onnowhere
-MyZia
+Shaders
+- Onnowhere
+- MyZia
